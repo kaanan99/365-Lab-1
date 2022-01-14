@@ -1,25 +1,6 @@
-// Test 1: R4
-// Expected Output:
-// S_Last S_First Grade Classroom  T_Last T_First
-// COOKUS    XUAN     3       107  FAFARD   ROCIO
 S COOKUS
-// Test 2: Student Test with Bus
-// Expected Output:
-//  S_Last S_First Bus
-//  COOKUS    XUAN  52
 S COOKUS B
-// Test 3: Teacher Test
-// Expected Output:
-//  S_Last    S_First
-//  COOKUS    XUAN
-//  ELHADDAD  SHANTE
-//  SWEDLUND  SHARRI
-//  CIGANEK   MANIE
-//  COVINGTON TOMAS
-//  EARLY     TORY
-//  LINHART   LELA
 T FAFARD
-//
 G 3
 G 3 H
 G 3 L
