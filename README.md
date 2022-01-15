@@ -1,7 +1,7 @@
 # 365-Lab-1
 
 ## Dependencies
-pandas and numpy must be installed
+`pandas` and `numpy` must be installed
 
 ## Running Code
 `python3 schoolsearch.py`<br>
